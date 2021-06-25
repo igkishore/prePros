@@ -1,7 +1,7 @@
 ﻿# Notes App
 
 <p align="center">
-    <img src="https://github.com/igkishore/prePros/blob/main/images/PrePros.png?raw=true" alt="OCR" width="550"  height="600">
+    <img src="https://github.com/igkishore/prePros/blob/main/images/PrePros.png?raw=true" alt="OCR" width="400"  height="400">
 </p>
 
 ## Contents
